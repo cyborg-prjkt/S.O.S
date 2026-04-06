@@ -6,7 +6,7 @@ SILENT OVER SNIPE
 > 
 > THIS IS A LOW-LEVEL SYSTEM LOCKDOWN EXPERIMENT. USE WITH CAUTION. IT IS DESIGNED TO INTERCEPT ALL USER INPUTS AT THE KERNEL LEVEL.
 
-![S.O.S Logo]<img width="2000" height="2000" alt="S o s" src="https://github.com/user-attachments/assets/1007bcf4-cc3d-422b-b38c-501b10ef2f70" />
+<img width="500" height="500" alt="S o s" src="https://github.com/user-attachments/assets/1007bcf4-cc3d-422b-b38c-501b10ef2f70" />
 
 
 ### FEATURES
