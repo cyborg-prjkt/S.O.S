@@ -7,7 +7,7 @@ SILENT OVER SNIPE </br>
   </blockquote>
 </div>
 <div align="center">
-  <img width="100" height="100" alt="S.O.S" src="https://github.com/user-attachments/assets/1007bcf4-cc3d-422b-b38c-501b10ef2f70" /></br>
+  <img width="200" height="200" alt="S.O.S" src="https://github.com/user-attachments/assets/1007bcf4-cc3d-422b-b38c-501b10ef2f70" /></br>
 </div>
 <div align="center">
   FEATURES</br>
